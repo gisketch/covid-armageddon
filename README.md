@@ -10,6 +10,8 @@ In COVID Armageddon, players take on the role of the brave hero who must journey
 
 You can download the latest release of COVID Armageddon [here](https://github.com/gisketch/covid-Armageddon/releases).
 
+After downloading the file, please extract the contents of the zip file to a folder of your choice. Then, locate and open the "Covid Armageddon.exe" file to start playing the game. Please note that COVID Armageddon is only available for Windows.
+
 ## 📷 Screenshots
 
 ![image](https://user-images.githubusercontent.com/78424395/225003522-9b94dd8b-e47d-4f12-9591-0106eab94b03.png)
