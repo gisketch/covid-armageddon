@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Screen
+  - MeleeHitbox
+  - Bullet
+  - Flamethrower
+  - NoWeapon
+  - Enemy
+  - Loot
+  - Crate
+  - EnemyHit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PostProcessing
+  - Player
+  - MeleeHitbox
+  - Enemy
+  - Ground
+  - Slope
+  - Loot
+  - Crate
+  - Bullet
+  - Melee
+  - EnemyMelee
+  - Flame
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

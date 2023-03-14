@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9166214196988278807
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9166214196988278801}
+  - component: {fileID: 9166214196988278800}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9166214196988278801
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9166214196988278807}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 174.39699, y: -915.2516, z: -587.9301}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9166214196988278800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9166214196988278807}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2514e2ec442cdc34292066a94915f8c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: fsand
+    clip: {fileID: 8300000, guid: 7dea7ada2499d994293e271afc2b7e3b, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: fconc
+    clip: {fileID: 8300000, guid: 24a356a81d2634c4ea28affecd87058e, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: fgrass
+    clip: {fileID: 8300000, guid: 2e83b23a54e07644d89f46b3fb96c92b, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: grasscut
+    clip: {fileID: 8300000, guid: 6b67a4940428c98459aef417abc7317c, type: 3}
+    volume: 0.39
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: slash
+    clip: {fileID: 8300000, guid: 64c2cee4258611c46ae90f91f09181f9, type: 3}
+    volume: 0.82
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: door
+    clip: {fileID: 8300000, guid: 82dec758fbaf5d7459f29c72e1d9c966, type: 3}
+    volume: 0.69
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: positive
+    clip: {fileID: 8300000, guid: 34d63cf80f1b67b4092214a85d1c8955, type: 3}
+    volume: 0.69
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: nextmsg
+    clip: {fileID: 8300000, guid: 848375bde65c0e94d94e094aa9316ca9, type: 3}
+    volume: 0.79
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: donemsg
+    clip: {fileID: 8300000, guid: 5ee3dd35af037db4087a2c1dc37ec3c0, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: enemyhit
+    clip: {fileID: 8300000, guid: 729527bbe4b8a8248865d68a07503af2, type: 3}
+    volume: 0.476
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: enemydie
+    clip: {fileID: 8300000, guid: 3f530bd2a60427b4794dff247eb0652b, type: 3}
+    volume: 0.609
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: gunshot
+    clip: {fileID: 8300000, guid: 601d56335fd273546b0f7e4de23baa3d, type: 3}
+    volume: 0.304
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: cratebreak
+    clip: {fileID: 8300000, guid: a202c684e917c604c878e8552358b628, type: 3}
+    volume: 0.514
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: cratehit
+    clip: {fileID: 8300000, guid: bf197d612a32ad340ae3db574ac6188e, type: 3}
+    volume: 0.19
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: light1
+    clip: {fileID: 8300000, guid: 51bae66af1420f64da6e720f17a819b3, type: 3}
+    volume: 0.55
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: light2
+    clip: {fileID: 8300000, guid: c435faf19f57a9645a9a6b850b1c9046, type: 3}
+    volume: 0.55
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: jump
+    clip: {fileID: 8300000, guid: a5e454a8c60f62740983052d2b7e7675, type: 3}
+    volume: 0.41
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: rock
+    clip: {fileID: 8300000, guid: 3491483f45ae9f14095c9940f0bda8e7, type: 3}
+    volume: 0.18
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: force
+    clip: {fileID: 8300000, guid: f716954e88c7de24e91c4d0bce8c4ede, type: 3}
+    volume: 0.23
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: grunt1
+    clip: {fileID: 8300000, guid: 2e4489064a37e3246b9b485f20d87b54, type: 3}
+    volume: 0.23
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: grunt2
+    clip: {fileID: 8300000, guid: 70e5668a07ebb344eb13f076fd46b512, type: 3}
+    volume: 0.23
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: grunt3
+    clip: {fileID: 8300000, guid: 51992ea77c067a94587d14a69ccb9fba, type: 3}
+    volume: 0.23
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: gameover
+    clip: {fileID: 8300000, guid: af57ef6b48742e04da4df9eef56218a4, type: 3}
+    volume: 0.23
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}

@@ -1,0 +1,709 @@
+fileFormatVersion: 2
+guid: 095074cefc47c274ca99049a981eddb9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Trashcan
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 15469
+      y: 6092
+      width: 74
+      height: 108
+    spriteID: a1b3ed558164a6946a77ec4833b31dee
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 11756, y: 5826}
+  - name: Bench
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 15623
+      y: 6014
+      width: 291
+      height: 134
+    spriteID: 7ed8bdd3b922e9c4ca101d5b8fbb5b1d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 10482, y: 5748}
+  - name: Bench_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 15623
+      y: 6156
+      width: 291
+      height: 134
+    spriteID: 8e7e93b214fab9a4099a23f7cd464e0d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 11674, y: 5890}
+  - name: Layer 39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 15469
+      y: 6208
+      width: 0
+      height: 0
+    spriteID: 45b581fe74b10194ea5a4517c403a0fd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 109, y: 1888}
+  - name: Layer 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 15469
+      y: 6216
+      width: 0
+      height: 0
+    spriteID: 4e4655b34c0d209428d94298669c816e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 109, y: 1896}
+  - name: Layer 38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 11022
+      width: 15360
+      height: 516
+    spriteID: f25948bb0e93ccb4fae9b2aad4b60d1a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 11022}
+  - name: Jobille Light
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 15372
+      y: 6092
+      width: 89
+      height: 202
+    spriteID: 79d0e8a199bfbc74596ad749e8c3e9dd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 13934, y: 5844}
+  - name: LightPost copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 15372
+      y: 4332
+      width: 593
+      height: 1407
+    spriteID: 39f23dbc62ca4cb46992da3a19785811
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 9911, y: 4160}
+  - name: Light
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 15372
+      y: 6302
+      width: 890
+      height: 1146
+    spriteID: 93fe1ab0655137346ba68858a594b418
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 11805, y: 5920}
+  - name: LightPost
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 15372
+      y: 4
+      width: 593
+      height: 1407
+    spriteID: 693ba25e631d2b84cacc6a43e820a2ee
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 11967, y: -168}
+  - name: Wire
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 9348
+      y: 7909
+      width: 1808
+      height: 451
+    spriteID: 75643cea6712d944d8f95f717eacae71
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 5632, y: 6988}
+  - name: Jobille logo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 15372
+      y: 5747
+      width: 243
+      height: 337
+    spriteID: 7edef52da62bc164083618f19ae44f19
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 13945, y: 4900}
+  - name: Jollibee
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7524
+      y: 8889
+      width: 1798
+      height: 1146
+    spriteID: b3eac837430607b40b1be4d179fb5475
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 6042, y: 8717}
+  - name: Layer 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 15623
+      y: 5747
+      width: 263
+      height: 259
+    spriteID: 288dc49e2c97f5346ad237f4187f65b3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 12264, y: 5495}
+  - name: Wallback1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 8889
+      width: 7512
+      height: 1178
+    spriteID: a43cec930c5d5624c945a78bf8d99423
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 8795}
+  - name: WallBack2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7909
+      width: 9336
+      height: 972
+    spriteID: 09d98febf7368a248b0ee3876ee4f433
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -6020, y: 7645}
+  - name: Layer 41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 10075
+      width: 9083
+      height: 939
+    spriteID: ef60cdaa5c0ea204db8b015a3ac4dd07
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -6273, y: 9811}
+  - name: Layer 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4332
+      width: 15360
+      height: 1962
+    spriteID: c48fbae19594b8d47bfe6d93eb06c2fc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4238}
+  - name: clouds copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6302
+      width: 15360
+      height: 1599
+    spriteID: 77dbc1087d0cc88449b7ca280475bb5a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 5227}
+  - name: Layer 0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 15360
+      height: 4320
+    spriteID: 055769aa78c190246b91738488d00d32
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 15360, y: 4320}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 16384
+  textureActualHeight: 16384
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Trashcan
+    spriteName: Trashcan
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a1b3ed558164a6946a77ec4833b31dee
+    layerID: 131
+    mosaicPosition: {x: 15469, y: 6092}
+  - name: Bench
+    spriteName: Bench
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7ed8bdd3b922e9c4ca101d5b8fbb5b1d
+    layerID: 132
+    mosaicPosition: {x: 15623, y: 6014}
+  - name: Bench
+    spriteName: Bench_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8e7e93b214fab9a4099a23f7cd464e0d
+    layerID: 120
+    mosaicPosition: {x: 15623, y: 6156}
+  - name: Layer 39
+    spriteName: Layer 39
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 45b581fe74b10194ea5a4517c403a0fd
+    layerID: 117
+    mosaicPosition: {x: 15469, y: 6208}
+  - name: Layer 5
+    spriteName: Layer 5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4e4655b34c0d209428d94298669c816e
+    layerID: 36
+    mosaicPosition: {x: 15469, y: 6216}
+  - name: Layer 38
+    spriteName: Layer 38
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f25948bb0e93ccb4fae9b2aad4b60d1a
+    layerID: 115
+    mosaicPosition: {x: 4, y: 11022}
+  - name: Jobille Light
+    spriteName: Jobille Light
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 79d0e8a199bfbc74596ad749e8c3e9dd
+    layerID: 90
+    mosaicPosition: {x: 15372, y: 6092}
+  - name: LightPost copy
+    spriteName: LightPost copy
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 39f23dbc62ca4cb46992da3a19785811
+    layerID: 108
+    mosaicPosition: {x: 15372, y: 4332}
+  - name: LightPost
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 105
+    mosaicPosition: {x: 0, y: 0}
+  - name: Light
+    spriteName: Light
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 93fe1ab0655137346ba68858a594b418
+    layerID: 97
+    mosaicPosition: {x: 15372, y: 6302}
+  - name: LightPost
+    spriteName: LightPost
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 693ba25e631d2b84cacc6a43e820a2ee
+    layerID: 93
+    mosaicPosition: {x: 15372, y: 4}
+  - name: Wire
+    spriteName: Wire
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 75643cea6712d944d8f95f717eacae71
+    layerID: 109
+    mosaicPosition: {x: 9348, y: 7909}
+  - name: Jobille logo
+    spriteName: Jobille logo
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7edef52da62bc164083618f19ae44f19
+    layerID: 81
+    mosaicPosition: {x: 15372, y: 5747}
+  - name: Jollibee
+    spriteName: Jollibee
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b3eac837430607b40b1be4d179fb5475
+    layerID: 61
+    mosaicPosition: {x: 7524, y: 8889}
+  - name: Layer 3
+    spriteName: Layer 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 288dc49e2c97f5346ad237f4187f65b3
+    layerID: 31
+    mosaicPosition: {x: 15623, y: 5747}
+  - name: Wallback1
+    spriteName: Wallback1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a43cec930c5d5624c945a78bf8d99423
+    layerID: 114
+    mosaicPosition: {x: 4, y: 8889}
+  - name: WallBack2
+    spriteName: WallBack2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 09d98febf7368a248b0ee3876ee4f433
+    layerID: 140
+    mosaicPosition: {x: 4, y: 7909}
+  - name: Layer 41
+    spriteName: Layer 41
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ef60cdaa5c0ea204db8b015a3ac4dd07
+    layerID: 137
+    mosaicPosition: {x: 4, y: 10075}
+  - name: Layer 9
+    spriteName: Layer 9
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c48fbae19594b8d47bfe6d93eb06c2fc
+    layerID: 45
+    mosaicPosition: {x: 4, y: 4332}
+  - name: clouds copy
+    spriteName: clouds copy
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 77dbc1087d0cc88449b7ca280475bb5a
+    layerID: 135
+    mosaicPosition: {x: 4, y: 6302}
+  - name: Layer 0
+    spriteName: Layer 0
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 055769aa78c190246b91738488d00d32
+    layerID: 134
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Town1 Texture
+  prefabAssetName: Town1 Prefab
+  spriteLibAssetName: Town1 Sprite Lib
+  secondarySpriteTextures: []

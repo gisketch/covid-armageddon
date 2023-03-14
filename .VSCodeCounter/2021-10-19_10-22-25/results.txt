@@ -1,0 +1,60 @@
+Date : 2021-10-19 10:22:25
+Directory : d:\GameDevProject\Project\COVID GAME\Assets\Scripts
+Total : 36 files,  1747 codes, 51 comments, 462 blanks, all 2260 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C#       |         36 |      1,747 |         51 |        462 |      2,260 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                        | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                           |         36 |      1,747 |         51 |        462 |      2,260 |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                    | language | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\AudioManager.cs         | C#       |         61 |          0 |         20 |         81 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\BgmManager.cs           | C#       |         63 |          0 |         19 |         82 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\BlobAi.cs               | C#       |         39 |          0 |         10 |         49 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\Bullet.cs               | C#       |         37 |          2 |          6 |         45 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\CameraFocuser.cs        | C#       |         31 |          1 |          7 |         39 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\CameraShaker.cs         | C#       |         67 |          9 |         14 |         90 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\CutsceneAnimator.cs     | C#       |         20 |          0 |          4 |         24 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\CutsceneManager.cs      | C#       |         65 |          3 |         20 |         88 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\CutsceneTrigger.cs      | C#       |         18 |          0 |          4 |         22 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\DestroyAfterTime.cs     | C#       |         14 |          2 |          4 |         20 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\DialogueManager.cs      | C#       |        103 |          3 |         27 |        133 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\DialogueTrigger.cs      | C#       |         32 |          0 |          9 |         41 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\EnemyController.cs      | C#       |         74 |          0 |         13 |         87 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\FootstepInstantiator.cs | C#       |         18 |          0 |          7 |         25 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\GameOverManager.cs      | C#       |         25 |          0 |          7 |         32 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\Grass.cs                | C#       |         24 |          0 |          6 |         30 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\Hero.cs                 | C#       |         32 |          0 |         11 |         43 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\InteractableTrigger.cs  | C#       |         95 |          3 |         24 |        122 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\LocationLabelManager.cs | C#       |         19 |          0 |          7 |         26 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\LocationLabelTrigger.cs | C#       |         14 |          0 |          4 |         18 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\MeleeRequirement.cs     | C#       |         13 |          0 |          3 |         16 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\ParallaxBackground.cs   | C#       |         37 |          0 |          4 |         41 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\ParallaxCamera.cs       | C#       |         26 |          0 |          1 |         27 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\ParallaxLayer.cs        | C#       |         14 |          0 |          2 |         16 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\PauseManager.cs         | C#       |         22 |          0 |          6 |         28 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\PlayerController.cs     | C#       |        450 |         22 |        125 |        597 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\ProgressManager.cs      | C#       |        107 |          1 |         41 |        149 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\ProgressRequirement.cs  | C#       |         14 |          2 |          5 |         21 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\QuestLog.cs             | C#       |         37 |          2 |          9 |         48 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\QuestManager.cs         | C#       |         37 |          0 |          8 |         45 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\Sound.cs                | C#       |         15 |          0 |          7 |         22 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\StartCutscene.cs        | C#       |         17 |          0 |          4 |         21 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\StartEventScene2021.cs  | C#       |         16 |          0 |          8 |         24 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\Teleporter.cs           | C#       |         20 |          0 |          4 |         24 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\TextTypewriter.cs       | C#       |         45 |          1 |          7 |         53 |
+| d:\GameDevProject\Project\COVID GAME\Assets\Scripts\TutorialManager.cs      | C#       |         26 |          0 |          5 |         31 |
+| Total                                                                       |          |      1,747 |         51 |        462 |      2,260 |
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
